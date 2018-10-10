@@ -1,0 +1,7 @@
+D:\C#.NET\NetworkProgramming1Day2\bin\Debug\NetworkProgramming1Day2.exe.config
+D:\C#.NET\NetworkProgramming1Day2\bin\Debug\NetworkProgramming1Day2.exe
+D:\C#.NET\NetworkProgramming1Day2\bin\Debug\NetworkProgramming1Day2.pdb
+D:\C#.NET\NetworkProgramming1Day2\obj\Debug\NetworkProgramming1Day2.csprojAssemblyReference.cache
+D:\C#.NET\NetworkProgramming1Day2\obj\Debug\NetworkProgramming1Day2.csproj.CoreCompileInputs.cache
+D:\C#.NET\NetworkProgramming1Day2\obj\Debug\NetworkProgramming1Day2.exe
+D:\C#.NET\NetworkProgramming1Day2\obj\Debug\NetworkProgramming1Day2.pdb
